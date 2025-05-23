@@ -5,7 +5,7 @@ public class bitwiseXOR {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Bit wise Operation of addition : ");
+        System.out.println("Bit wise Operation of XOR : ");
 
         System.out.print("Enter the number : ");
         int num1 = input.nextInt();
