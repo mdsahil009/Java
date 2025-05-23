@@ -5,7 +5,7 @@ public class bitwiseCompliment {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Bit wise Operation of addition : ");
+        System.out.println("Bit wise Operation of Compliment : ");
 
         System.out.print("Enter the number : ");
         int num = input.nextInt();
