@@ -5,7 +5,7 @@ public class bitwiseOR {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Bit wise Operation of addition : ");
+        System.out.println("Bit wise Operation of OR : ");
 
         System.out.print("Enter the number : ");
         int num1 = input.nextInt();
