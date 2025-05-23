@@ -5,7 +5,7 @@ public class bitwiseLeftShift {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Bit wise Operation of addition : ");
+        System.out.println("Bit wise Operation of LeftShift : ");
 
         System.out.print("Enter the number : ");
         int num = input.nextInt();
